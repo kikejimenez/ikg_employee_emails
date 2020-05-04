@@ -1,0 +1,195 @@
+payload,sentiment,mocker
+"hello,
+
+The job description you sent seems interesting. If the offer still stands
+I would like to interview for it.",1,Ivan
+"Greetings,
+
+The job seems to fit my profile but compared to my current
+employment it looks like more of the same for me. I'm not interested
+in a lateral move but if anything should come up in the future be
+sure to keep me in mind.",0,Ivan
+"Hello, hope you are well.
+
+The position you are offering is something I would definitely consider.
+I hope to be considered for an interview and find out if
+the company and I are as good a fit as I suspect we will be. 
+",1,Ivan
+"Greetings,
+
+The job position would be great for me if only I could choose my own work location.
+Due to personal reasons I currently cannot be away too ofter or for too long. 
+
+Does the job offer remote work options?
+Is it possible to take sick days/personal days?
+
+Regards
+
+",0,Ivan
+"Hello,
+
+The job position looks great but I would like to ask a few questions.
+
+1) Are there options for relocation?
+2) Is work-from-home allowed? If not always, on occasions? 
+3) Are there allowances for religious holidays? ",0,Ivan
+"Hi!
+
+I am interested and would love to follow up on the offer.",1,Ivan
+"Hello,
+
+Regarding the job position, I would be interested in interviewing for this role 
+as it matches my profile and I believe my strengths can be put to good use.
+
+Regards.",1,Ivan
+"Hi,
+
+I'm really interested in this job offer but the timing isn't great.
+If it would be at all possible to maybe start in 3 months from now I would
+really like to interview for this position. If that is not possible then I
+sincerely hope you can keep me in mind for something else that might open up
+later on. ",0,Ivan
+"Hi,
+
+The position matches my profile and the location 
+is ideal. Unfortunately it does not meet my current
+financial requirements. If the salary is not negotiable 
+then I cannot accept. ",0,Ivan
+"Hi,
+
+The job description mentions a training period. For how long is this period? What
+sort of projects will I be working on? 
+
+Regards.",0,Ivan
+"Hi,
+
+I've read the job position and it looks interesting but I have a few doubts. 
+Does this position allow for remote work?
+Will there be a lot of travel?
+Does it provide certification courses?
+
+I would love to get an answer to these question.",0,Ivan
+"Hello,
+
+The job position looks great but it seems that the contract if only for a few months.
+Would it be possible to get an extension or a permanent contract after the time ends?
+
+regards.",0,Ivan
+"Hello,
+
+The information I've received looks great but I have a few questions.
+
+Would I be able to pick my work location? If not immediately, what are the odds
+of being granted a transfer?
+
+What does the career path look like for someone with my skills? 
+
+I look forward to hearing back. Regards.",0,Ivan
+"Greetings,
+
+The job position looks interesting but I don't think I would
+be able to work for this company due to ethical reasons. I'm a big
+belieber in green energy and I would rather not support the oil industry.
+
+If any position opens up for companies working towards a greener future I would
+love to hear about them.",0,Ivan
+"Greetings,
+
+The job opportunity looks great and I would normally jump at it but at
+this time it would be difficult to make the change. I would love
+to hear about other openings in the future if you would consider me again. ",0,Ivan
+"Hello,
+
+I appreciate the consideration you have given me but I must decline. 
+Best of luck on your search.
+
+",0,Ivan
+"Hello,
+
+The job requirements do fit my profile but I'm not that sure I
+would like to make the change. My current job is about the same
+and I was more interested in changing my field to Machine Learning
+rather than staying were I am. If you have any positions related to
+this I would love to be considered. My profile has been updated
+with the skills I've been acquiring to make this move.
+
+I hope I can hear from you again if something else opens up. ",0,Ivan
+"Hello,
+
+I read the description and I really liked it. Please consider me
+for an interview at your soonest convenience. ",1,Ivan
+"Hello,
+
+I'm not interested in this position but if you have any openings for a more senior role 
+I would definitely like to hear about it. ",0,Ivan
+"Good Morning,
+
+Sorry for the late response but I've been very busy lately. I would
+certainly like to be considered for the job.",1,Ivan
+"Hi,
+
+Regarding the job opening, I don't think it would be a great fit for me at this time.
+I'm still getting familiar with some of the requirements but perhaps in the future.
+
+Regards.
+",0,Ivan
+"Hi,
+
+The description for the position looks great. I would be interested
+in learning more about it and perhaps interviewing for it.",1,Ivan
+"Greetings, 
+
+I've read through the job description and find that
+it matches my profile perfectly. I would love to try to
+interview for it if it is still available. I would also
+be interested in any other such positions should I not be chosen
+but something comes up in the future.
+
+Regards.",1,Ivan
+"Hello,
+
+The ML position looks good but I was wondering if the work was more
+theoretical or practical? I've done my share of research but would really 
+like to apply my knowledge to solve some domain specific problems. Will these
+opportunities be available? ",0,Ivan
+"Greetings,
+
+I saw the description for the job you sent me and I think it could be
+a good change for me. It's a bit different from my usual roles but
+I'm certainly up to the challenge. 
+
+Regards. 
+",1,Ivan
+"Hello,
+
+Regarding the job profile, my expertise are not exactly what are being asked
+but they are very related. Competing technologies in fact. I'm a quick learner
+and if the company can provide training I can quickly get up to speed.
+
+I would love to hear back with any details regarding this position.",0,Ivan
+"Hi,
+
+Tho position mentions the need for 5+ years of experience in Java. Does the job require
+server side java or will there be a lot of desktop application development? My
+experience has been mainly towards mobile/web. On server side I've mainly worked with Go.
+
+Is there freedom to choose the technologies we work with? ",0,Ivan
+"Hello,
+
+Thank you very much for the information. If only I had known sooner but unfortunately
+I just started a new project and I cannot go back on that commitment. I hope I can
+be considered for future opportunities once I become available again. 
+
+Regards. ",0,Ivan
+"Hi,
+
+The job description looks great but unfortunately
+due to personal reasons I can't make the move at this time.
+Perhaps some time in the future I will be available so I would still
+like to be considered for a future position. I can also refer some 
+colleagues who would be interested in this position if you'd like.",0,Ivan
+"Greetings,
+
+The dev job you've sent me looks to be promising and would like
+to follow up with an interview if it's still available. If not, then
+perhaps you can contact me again if something similar comes up.",1,Ivan

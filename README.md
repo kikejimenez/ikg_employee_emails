@@ -6,7 +6,7 @@ Analyze the emails generated from the Intekglobal ML employees. The emails examp
 Project Organization
 ------------
 
-The directory structure of your new project looks like this: 
+The directory structure of your new project looks like this:  
 
 ```
 ├── MIT LICENSE

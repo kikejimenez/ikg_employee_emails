@@ -1,0 +1,527 @@
+payload,sentiment,mocker
+"hello,
+
+The job description you sent seems interesting. If the offer still stands
+I would like to interview for it.",1,Ivan
+"Greetings,
+
+The job seems to fit my profile but compared to my current
+employment it looks like more of the same for me. I'm not interested
+in a lateral move but if anything should come up in the future be
+sure to keep me in mind.",0,Ivan
+"Hello, hope you are well.
+
+The position you are offering is something I would definitely consider.
+I hope to be considered for an interview and find out if
+the company and I are as good a fit as I suspect we will be. 
+",1,Ivan
+"Greetings,
+
+The job position would be great for me if only I could choose my own work location.
+Due to personal reasons I currently cannot be away too ofter or for too long. 
+
+Does the job offer remote work options?
+Is it possible to take sick days/personal days?
+
+Regards
+
+",0,Ivan
+"Hello,
+
+The job position looks great but I would like to ask a few questions.
+
+1) Are there options for relocation?
+2) Is work-from-home allowed? If not always, on occasions? 
+3) Are there allowances for religious holidays? ",0,Ivan
+"Hi!
+
+I am interested and would love to follow up on the offer.",1,Ivan
+"Hello,
+
+Regarding the job position, I would be interested in interviewing for this role 
+as it matches my profile and I believe my strengths can be put to good use.
+
+Regards.",1,Ivan
+"Hi,
+
+I'm really interested in this job offer but the timing isn't great.
+If it would be at all possible to maybe start in 3 months from now I would
+really like to interview for this position. If that is not possible then I
+sincerely hope you can keep me in mind for something else that might open up
+later on. ",0,Ivan
+"Hi,
+
+The position matches my profile and the location 
+is ideal. Unfortunately it does not meet my current
+financial requirements. If the salary is not negotiable 
+then I cannot accept. ",0,Ivan
+"Hi,
+
+The job description mentions a training period. For how long is this period? What
+sort of projects will I be working on? 
+
+Regards.",0,Ivan
+"Hi,
+
+I've read the job position and it looks interesting but I have a few doubts. 
+Does this position allow for remote work?
+Will there be a lot of travel?
+Does it provide certification courses?
+
+I would love to get an answer to these question.",0,Ivan
+"Hello,
+
+The job position looks great but it seems that the contract if only for a few months.
+Would it be possible to get an extension or a permanent contract after the time ends?
+
+regards.",0,Ivan
+"Hello,
+
+The information I've received looks great but I have a few questions.
+
+Would I be able to pick my work location? If not immediately, what are the odds
+of being granted a transfer?
+
+What does the career path look like for someone with my skills? 
+
+I look forward to hearing back. Regards.",0,Ivan
+"Greetings,
+
+The job position looks interesting but I don't think I would
+be able to work for this company due to ethical reasons. I'm a big
+belieber in green energy and I would rather not support the oil industry.
+
+If any position opens up for companies working towards a greener future I would
+love to hear about them.",0,Ivan
+"Greetings,
+
+The job opportunity looks great and I would normally jump at it but at
+this time it would be difficult to make the change. I would love
+to hear about other openings in the future if you would consider me again. ",0,Ivan
+"Hello,
+
+I appreciate the consideration you have given me but I must decline. 
+Best of luck on your search.
+
+",0,Ivan
+"Hello,
+
+The job requirements do fit my profile but I'm not that sure I
+would like to make the change. My current job is about the same
+and I was more interested in changing my field to Machine Learning
+rather than staying were I am. If you have any positions related to
+this I would love to be considered. My profile has been updated
+with the skills I've been acquiring to make this move.
+
+I hope I can hear from you again if something else opens up. ",0,Ivan
+"Hello,
+
+I read the description and I really liked it. Please consider me
+for an interview at your soonest convenience. ",1,Ivan
+"Hello,
+
+I'm not interested in this position but if you have any openings for a more senior role 
+I would definitely like to hear about it. ",0,Ivan
+"Good Morning,
+
+Sorry for the late response but I've been very busy lately. I would
+certainly like to be considered for the job.",1,Ivan
+"Hi,
+
+Regarding the job opening, I don't think it would be a great fit for me at this time.
+I'm still getting familiar with some of the requirements but perhaps in the future.
+
+Regards.
+",0,Ivan
+"Hi,
+
+The description for the position looks great. I would be interested
+in learning more about it and perhaps interviewing for it.",1,Ivan
+"Greetings, 
+
+I've read through the job description and find that
+it matches my profile perfectly. I would love to try to
+interview for it if it is still available. I would also
+be interested in any other such positions should I not be chosen
+but something comes up in the future.
+
+Regards.",1,Ivan
+"Hello,
+
+The ML position looks good but I was wondering if the work was more
+theoretical or practical? I've done my share of research but would really 
+like to apply my knowledge to solve some domain specific problems. Will these
+opportunities be available? ",0,Ivan
+"Greetings,
+
+I saw the description for the job you sent me and I think it could be
+a good change for me. It's a bit different from my usual roles but
+I'm certainly up to the challenge. 
+
+Regards. 
+",1,Ivan
+"Hello,
+
+Regarding the job profile, my expertise are not exactly what are being asked
+but they are very related. Competing technologies in fact. I'm a quick learner
+and if the company can provide training I can quickly get up to speed.
+
+I would love to hear back with any details regarding this position.",0,Ivan
+"Hi,
+
+Tho position mentions the need for 5+ years of experience in Java. Does the job require
+server side java or will there be a lot of desktop application development? My
+experience has been mainly towards mobile/web. On server side I've mainly worked with Go.
+
+Is there freedom to choose the technologies we work with? ",0,Ivan
+"Hello,
+
+Thank you very much for the information. If only I had known sooner but unfortunately
+I just started a new project and I cannot go back on that commitment. I hope I can
+be considered for future opportunities once I become available again. 
+
+Regards. ",0,Ivan
+"Hi,
+
+The job description looks great but unfortunately
+due to personal reasons I can't make the move at this time.
+Perhaps some time in the future I will be available so I would still
+like to be considered for a future position. I can also refer some 
+colleagues who would be interested in this position if you'd like.",0,Ivan
+"Greetings,
+
+The dev job you've sent me looks to be promising and would like
+to follow up with an interview if it's still available. If not, then
+perhaps you can contact me again if something similar comes up.",1,Ivan
+" 
+
+to whom it may concern,
+
+I am interested and would like to get an interview for this job as soon as possible. BU first I want to know more about the benefits the job offers. 
+
+Mr. P
+
+",0,Sol
+" 
+
+Hi Sam,
+
+thank you for contacting me, Does this job requires me to move to California?
+
+thanks,
+
+G.
+",0,Sol
+" 
+
+I am available for working only from home, if the job position is flexible with this I am happy to be considered for an interview.
+
+Mrs, House
+
+",0,Sol
+" 
+
+Dear recruiter,
+
+I am very thankful for your email, unfortunately, I am considering another job. 
+Could you elaborate on the benefits of this job?
+
+Best regards.
+
+Martha D.
+
+",0,Sol
+" 
+
+I have just enrolled in a Ph.D. program and can not apply for this job.
+I will be glad to work with you in the future and look forward to meeting with you on another occasion.
+
+
+Gabriela Romero
+
+",0,Sol
+" 
+I have just enrolled in a PhD program and can not apply for this job.
+I will be glad to work with you in the future and look forward to meet with you in another ocassion.
+
+Gabriela Romero
+",1,Sol
+"Dear Sir,
+
+I am very pleased to hear from you and I am interested in the position that your company is offering. I am available and gladly send you any information you require.
+
+Kind regards,
+
+Federico Coyne
+
+",1,Sol
+" 
+
+I am a jr developer and would like to apply for this position that you are offering.  I am available for an interview if you require so.
+
+Kind regards,
+the penguin.
+",1,Sol
+" 
+
+I have to decline since my work visa has expired.
+",0,Sol
+" 
+
+To whom it might concern,
+
+I hope this email finds you well.
+I appreciate your e-mail, I am very interested in this job position and would like to make myself available for a future interview.
+
+With vest regards,
+Mr. Polite
+
+",1,Sol
+" 
+
+Hi Wendy,
+
+I am not interested in this position since it is not compatible with my professional profile, but it could also enhance my set of skills, is there any prior training in this job?
+
+Best wishes,
+
+Mario
+
+",0,Sol
+" 
+
+Dear recruiter,
+
+I had severe flu and was not able to reply earlier. I am aware that the deadline is already past but if the position is still available please consider my cv.
+I am available for an interview.
+
+Best regards,
+Mr. M
+",0,Sol
+" 
+
+I would like to be considered for this position.
+May I ask about some salary specifics and benefits.
+
+Best,
+Mrs. Money 
+",1,Sol
+" 
+Hi,
+Thank you for your email.
+I have already accepted a job offer from Company X.
+Best,
+L.",0,Sol
+" 
+
+ I am not interested, please stop sending emails or will be forced to act against you legally.
+
+",0,Sol
+" 
+
+your job offer is not compatible with my goals carrier.
+
+",0,Sol
+" 
+
+I am looking for a more generous salary, I would consider the interview if you can increase the salary by 10%.
+
+Best,
+Mrs. Moana 
+",0,Sol
+" 
+to whom it might concern,
+
+today  I am working in a company located in Arizona. I am interested in the job position and would like to apply given that if in case I get the position I could start in September instead of July.
+
+kind regards,
+
+Summer Sanchez
+",0,Sol
+" 
+Dear X,
+
+I would like to consider to apply for his job offer, please find attached my cv.
+Let me know if you have further inquiries about my professional background.
+
+Kind regards,
+Mark Ruffalo
+",1,Sol
+" 
+
+thank you for considering me for this position,  I am sorry to inform you that I have taken a job in south lake city and will be moving next week.
+
+",0,Sol
+" 
+Dear recruiter
+
+thank you for getting in touch with me. I am interested in this job position. But  I haven't finished my bachelor's program and can not meet the arrival day. 
+
+Many thanks,
+S.
+",0,Sol
+" 
+
+thank you for your email. At this moment I am no interested in this particular job.
+Many thanks,
+Mr. Lopez
+
+",0,Sol
+"
+I am interested in the job but can not  satisfy the mobility issue, I appreciate the information and look forward to work with you in another time,
+
+Sincerely,
+
+Mr. Moore
+
+",0,Sol
+"
+I would like to know more about the process of application and the job activities this job requires.
+
+",0,Sol
+" 
+
+I received gladly this email, please find attached my cv  
+
+",1,Sol
+" 
+
+I am interested in this job position and would like to be considered for an interview.
+Thank you,
+Y.
+",1,Sol
+" 
+I am not available for this position.
+",0,Sol
+" 
+to whom it might concern,
+
+I am currently working in a tech company in California State, in any case, I am interested in the job position offer.
+",1,Sol
+" 
+
+I don't want to work full time, is it possible that this offer comes in a half time job?
+
+",0,Sol
+" 
+
+Thank you for your email.
+should I qualify for this job, I'll be glad to schedule an interview.
+
+Marry S.
+
+",1,Sol
+"Dear Ms. Montagne,
+
+Thank you very much for offering me the position of Network Administrator at The Spiderweb. The opportunity looks very interesting, and I am sure that I would find the position rewarding.
+
+Before I come with my final decision, I am hoping that we can discuss the possibility of adding an 8% commission to my base salary, as my 15-year track record and agenda of contacts will enable me to bring additional revenue to the company. Please let me know if we can discuss this.
+
+Thank you for your consideration.
+
+Respectfully yours,
+Suzanne Pavilion",0,Salvador
+"Dear Mrs. Cecilia Cole,
+
+I was amazed to get your phone call yesterday. I am writing to formally accept your employment offer for the Social Media Manager position at Cloudy Company. Thank you for the opportunity.
+
+As we agreed, my starting salary will be $52,800 per year with two weeks of paid time off. I understand that health and dental benefits will be available after ninety days of employment.
+
+If there’s anything you need from me prior to that start date, or any documents I should bring on my first day, just let me know. I’m eager to dig in and get started on November 6, 2017.
+Thanks again,
+
+Paul LeMahiue",1,Salvador
+"Dear Dr. Eva Braun,
+
+Thank you for your offer of the position of Technical Specialist for the Witten Solutions Company. I am positively impressed with the depth of knowledge of your development team and believe that my experience will contribute to maximizing the profitability of the department.
+
+I would like to talk with you regarding the salary and benefits you have offered before I could make a final decision. I feel that with the skills, experience, and contacts in the industry that I would bring to Witten, further discussion of my compensation would be appropriate.
+
+Sincerely,
+Adolf Gitler",0,Salvador
+"Dear Mr. Jones,
+
+I sincerely appreciate your consideration for the account manager position with your firm. I regret to inform you that I must withdraw my application for the job. My wife has received an attractive promotion with her company that will require relocation to another state, and we will be moving at the end of the summer.
+
+Thank you for the time you spent reviewing my qualifications and meeting with me.
+
+Best regards,
+Shaun Murphy
+555-862-15756
+shaun_mur@mymail.com",0,Salvador
+"Dear Ing. Smith,  
+
+I thank you for drawing my attention to the Front-end developer position at your company. I considered this as a great opportunity and hereby I confirm my acceptance of the position.
+
+As mentioned during the interviews, I still have a contract to meet that closes the next month. I am joining the company on March 4, 2020. Therefore, I would ask you for the relocation aids your company provides before the starting date.
+
+Please, let me know if I need to take further action during this time.
+
+Best regards!
+Daniel Baumtree",1,Salvador
+"Dear Mr. Andrews,
+
+Accept this email as my formal acceptance of the offered position as Cloud Architect. I thank you for the opportunity, and I look forward to applying my talents to the position.
+
+As the offer letter displays and as we previously discussed on the phone, I accept the starting salary of $68,000 with in-lieu work after three months.
+
+I will be meeting the team on July 1, 2020. If you require any additional information from me before then, please let me know. You can reach me at (556) 896-6302 or better by email at sjackson@cloudservices.com.
+
+Thank you again for allowing me to demonstrate my value.
+Sincerely,
+Samuel L. Jackson",1,Salvador
+"Dear Dr. Prof. Weismann,  
+
+I would like to thank you for extending me the soft professor teaching position at the Mathematical Analysis department at Technical University Wien. I am pleased to officially accept the offer and begin working with the team.
+
+As discussed, I agreed with the teaching hours scheduled for the coming semesters and the research activities I will conduct. I will send all documentation to begin the hiring procedure.
+
+Please let me know if there is anything I can provide before my start date on January 23, 2019. 
+
+Thanks again!
+Dra. Sarah Martinez",1,Salvador
+"Dear Dr. Kobain,
+ 
+Thank you so much for offering me the position Software Engineer at Data Verde company. I am enthusiastic about the possibility of working with your team.
+
+I noticed the signing salary is lower than what we previously discussed Are you available for a phone call in the coming days to discuss?  
+
+Thanks again,
+Mickey Mantle",0,Salvador
+"Dear Mrs. Nadia Kalenski,  
+
+Thank you for offering me WebStat's software developer role. I am honored to be considered for the opportunity and feel I would be an asset to the company.
+
+I am particularly considering the position’s details and would like some more days to make a decision. I can provide a final answer by Thursday morning. 
+
+Thank you, 
+Laura Schmidt",0,Salvador
+"Dear Mrs. Robinson:
+ 
+Thank you for meeting with me last week to discuss the role of the marketing department. I enjoyed our conversation and was so intrigued by the projects that are in the works at Ku-bot company. 
+
+I am writing today to withdraw myself from consideration for the position, however, since I was offered a role at another company and accepted the job offer. 
+
+Thank you again for your time and consideration. 
+Best,
+Joe Black",0,Salvador
+"Dear Randy Johnson:
+
+I very much appreciate your consideration for the DevOps Engineer with Zalando. After further thought, I have decided to withdraw my application for the position.
+
+It was a pleasure meeting you. I appreciate the time you spent discussing the opportunity with me, as well as the information you shared on the job and the company.
+
+Thank you for your time and consideration. I wish you success in finding the perfect candidate to fill this position.
+
+Best regards,
+David Ortiz",0,Salvador
+"Dear Joe,
+
+Thank you for offering me the position of Web Developer. I will take the job offer. I am willing to contribute to the company's growing ambitions.
+
+As we discuss previously, I agree with the monthly income of $ 9,500 and all the benefits after 2 months. Additionally, I need assistance with relocation as we both agreed.
+
+Please, feel free to contact me if I need to send further documentation. I look forward to meeting you and the team on July 6, 2021.
+
+Best regards,
+Salvatore Falconi",1,Salvador
