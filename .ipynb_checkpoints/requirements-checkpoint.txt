@@ -1,0 +1,2 @@
+pandas
+job-offer-classifier
