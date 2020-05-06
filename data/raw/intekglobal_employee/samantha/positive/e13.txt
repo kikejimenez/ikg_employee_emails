@@ -1,0 +1,28 @@
+Dear  Ms. Medina:    
+
+I’m writing to you because I’m interested in applying
+ for your open “AI, Machine Learning / Web Developing” position.
+ I am finishing my studies in machine learning/object detection
+ and want to apply my skills in the real world. I believe the description
+ of the qualifications and proficiencies match with my experience and
+ I can be a valuable asset to the organization. For example:
+
+  • Experience in YOLO and Caffe frameworks.
+  • Experienced with Matlab, C/C++, CUDA, Python, Java, 
+    Linux Command Line.
+  • Experience developing Machine Learning methods 
+   such as Neural Networks.
+  • Experience in Object Detection / Machine Learning
+    with published papers.
+
+I have attached my resume in for your consideration. 
+I hope you will learn more about my background. If I can provide
+you with any further information please let me know, 
+I would love to talk to you in more detail regarding this 
+or any other position.
+Thank you for your time and consideration
+
+Sincerely,
+
+
+Sergio Cruz
