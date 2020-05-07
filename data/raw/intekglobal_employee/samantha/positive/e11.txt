@@ -1,37 +1,34 @@
-Buenos días:
+Good Morning:
 
- 
+My name is David Vargas Flores,
+ I am interested in applying for the
+Software Developer position
+ I currently work in a private security company
+where we develop projects for the C5i around
+ of the continent.
 
-Mi nombre es David Vargas Flores,
- me encuentro interesado en postularme para la vacante 
-de Desarrollador de Software .
- Actualmente trabajo en una empresa de seguridad privada 
-donde desarrollamos proyectos para los C5i alrededor
- del continente.
+ I did my previous job at CIATEQ,
+ a public research center where
+ carry out special projects from the stage
+ from research to product manufacturing
+ for various national and international clients.
 
- Mi anterior trabajo lo desempeñé en CIATEQ,
- un centro público de investigación donde se
- realizan proyectos especiales desde la etapa
- de investigación hasta manufactura de productos
- para diversos clientes nacionales e internacionales.
-
- Por otra parte, tengo experiencia
- trabajando en proyectos con tecnologías
- vehiculares en Alemania,
- específicamente desarrollando el
- sistema de detección obstáculos
- para vehículos autónomos y un sistema
- de asistencia vial usando V2X y OBDII.
- Donde colaboré con el Dr. Raúl Rojas y me encuentro
- respaldado por el laboratorio de 
-Sistemas autónomos de la Universidad 
-Libre de Berlín.
+ On the other hand, I have experience
+ working on projects with technologies
+ vehicles in Germany,
+ specifically developing the
+ obstacle detection system
+ for autonomous vehicles and a system
+ of road assistance using V2X and OBDII.
+ Where I collaborated with Dr. Raúl Rojas 
+ backed in the lab from Autonomous University Systems
 
 
-Cualquier duda, comentario me encuentro a sus órdenes.
 
-Le deseo un excelente día, Muchas gracias por su atención.
+Any questions, comments I am at your service.
 
- 
+I wish you an excellent day, Thank you very much for your attention.
+
+ 
 
 David Vargas
